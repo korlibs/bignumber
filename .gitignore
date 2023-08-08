@@ -1,0 +1,11 @@
+/.idea
+/.gradle
+/build
+/out
+/classes
+/web
+*.ipr
+*.iws
+*.iml
+/local.properties
+/gradle/wrapper/gradle-wrapper.jar
